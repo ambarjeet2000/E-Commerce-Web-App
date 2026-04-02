@@ -1,0 +1,10 @@
+# React
+node_modules/
+build/
+.env
+
+# Spring Boot
+target/
+.idea/
+*.iml
+*.log
